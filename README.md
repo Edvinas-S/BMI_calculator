@@ -1,3 +1,5 @@
+![HitCount](http://hits.dwyl.com/edvinas-s/https://edvinas-sgithubio/BMI_calculator/.svg)
+
 # BMI Calculator
 ### calculate yours BMI using PHP
 
